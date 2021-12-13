@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".Phoneverification"
+    android:padding="30dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/create_account"
+            android:textColor="@color/siyah"
+
+            android:textSize="40sp"
+            android:fontFamily="@font/muli_extrabold"
+            android:layout_marginTop="20dp"
+            android:textAllCaps="true"
+            />
+        <com.hbb20.CountryCodePicker
+            android:layout_width="match_parent"
+            android:layout_marginTop="40dp"
+            android:layout_height="wrap_content"
+            app:ccp_autoDetectCountry="true"
+
+            app:ccp_showFlag="true"
+            app:ccp_showNameCode="true"
+            app:ccp_showFullName="true"
+            android:background="@drawable/phonehbb20"/>
+
+
+        <EditText
+            android:id="@+id/phonenumber"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:background="@drawable/input_field"
+            android:drawablePadding="10dp"
+            android:ems="10"
+            android:hint="@string/phone_numbers"
+            android:inputType="phone"
+            android:padding="5dp"
+            android:drawableStart="@drawable/call"
+            android:textColorHint="@color/hint"
+            android:textSize="14sp"
+            />
+        <Button
+            android:id="@+id/register2"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/input_register"
+            android:text="@string/next"
+            android:textAllCaps="false"
+            android:textColor="@color/beyaz"
+            android:textSize="14sp"
+            />
+    </LinearLayout>
+
+</ScrollView>

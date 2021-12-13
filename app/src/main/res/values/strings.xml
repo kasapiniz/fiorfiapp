@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FIORFI</string>
+    <string name="logoname">F I O R F I</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">E-mail</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="next">Next</string>
+    <string name="login">Log In</string>
+    <string name="direct">Direct</string>
+    <string name="register">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username_or_e_mail">Username or E-mail</string>
+    <string name="forget_password">FORGET PASSWORD</string>
+    <string name="forgot_your_login_details">Forgot your login details?</string>
+    <string name="get_help_signing_in">Get help signing in.</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sing_up">Sing up.</string>
+    <string name="code">Co\nde</string>
+    <string name="verification">verification</string>
+    <string name="description">Enter one time password sent on\n+905497946</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="create_account">Create\nAccount</string>
+    <string name="phone_number">phone\nnumber</string>
+    <string name="phone_numbers">Phone Number</string>
+    <string name="last_step">Last\nStep</string>
+    <string name="add_photo">add photo</string>
+    <string name="loremtext">dşlasldsamdsalşmdmsaldşlsa adisad ad sadl adas mldas dsam dlasdmasdsada dsadsadsadsa asdsadsa dasdsadsa dada as dasdsad sad ad a</string>
+</resources>

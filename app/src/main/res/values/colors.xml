@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="mavi">#36C2ED</color>
+    <color name="turuncu">#FE6464</color>
+    <color name="siyah">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="beyaz">#ffffff</color>
+    <color name="hint">#696969</color>
+    <color name="grey">#9c9c9c</color>
+    <color name="pembe">#E91E63</color>
+    <color name="koyugri">#232222</color>
+    <color name="butonarkaplan">#3F51B5</color>
+    <color name="toolbarrenk">#CFCECE</color>
+    <color name="backgrounloginup">#f5f7fa</color>
+    <color name="backgrounlogindown">#c3cfe2</color>
+    <color name="newlogocolor">#00dbde</color>
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="whitelight">#FFF5EE</color>
+</resources>

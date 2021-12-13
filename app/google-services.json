@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "116710202152",
+    "firebase_url": "https://fiorfi.firebaseio.com",
+    "project_id": "fiorfi",
+    "storage_bucket": "fiorfi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116710202152:android:d83bc4e7af72bdd92c0e1d",
+        "android_client_info": {
+          "package_name": "com.example.fiorfi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116710202152-e504lbqmd2vu45nqd139k1vuh7mjehod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fiorfi",
+            "certificate_hash": "a2d9145e54f971267b34b75d508651c897ad6514"
+          }
+        },
+        {
+          "client_id": "116710202152-b3bc11qhf4pf754s5rneev9tmfrud2sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFk9PMLc6ImsuhA-rbI5al1INXHit97Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116710202152-b3bc11qhf4pf754s5rneev9tmfrud2sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
